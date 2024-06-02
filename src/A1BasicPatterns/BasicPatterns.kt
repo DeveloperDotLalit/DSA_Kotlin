@@ -11,6 +11,7 @@ class BasicPatterns {
 
     fun pattern1(n: Int) {
         /*Triangle pattern*/
+        // checking again
         for (i in 1..n) {
             for (j in 1..i) {
                 print("*")
