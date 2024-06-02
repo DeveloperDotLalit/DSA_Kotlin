@@ -7,6 +7,7 @@ class BasicPatterns {
 
     fun main() {
         // Working in patterns branch
+        // chceking email changes in the git
         pattern1(10)
     }
 
